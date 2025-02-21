@@ -1,5 +1,5 @@
 
-# parcialmente funcionando
+# Funcionando
 # em desenvolvimento
 
 # notas para melhoras:
@@ -21,6 +21,4 @@ colocar containers pre configurados ---
  colocar funçao devops ---
  terraform azure/aws ---
  terraform kubernets/conatiner/banco de dados ---
-
-# se a gente tiver muito loco pra fazer:
 site base pra web com git clone ---
